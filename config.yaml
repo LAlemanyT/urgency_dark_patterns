@@ -1,0 +1,7 @@
+path: /mnt/c/Users/Luis/Desktop/Final Scrape/YOLO
+train: images/train2
+val: images/train2
+
+names:
+  0: urgency
+  1: borderline

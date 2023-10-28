@@ -1,0 +1,7 @@
+path: '/content/gdrive/My Drive/Thesis/YOLO'
+train: images/train
+val: images/train
+
+names:
+  0: urgency
+  1: borderline

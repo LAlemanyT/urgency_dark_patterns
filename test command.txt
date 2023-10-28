@@ -1,0 +1,2 @@
+yolo task=detect mode=predict model=runs/train15/weights/best.pt conf=0.25 source=testing
+yolo task=detect mode=predict model=runs/detect/train/weights/best.pt conf=0.31 source=testing2
